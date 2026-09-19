@@ -1,0 +1,4 @@
+Name: Lana Clare D. Poblete
+Course: CCIT102
+Favorite Programming Language: Javascript
+GitHub Username: lcpoblete
