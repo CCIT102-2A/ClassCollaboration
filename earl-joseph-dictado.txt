@@ -1,4 +1,4 @@
 Name: Earl Joseph Dictado
 Course: CCIT102
-Favorite Programming Language: java, typescript, c#, sql
+Favorite Programming Language: java, typescript, c#,
 GitHub Username: bleyuh
